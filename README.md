@@ -1,8 +1,23 @@
 <!-- ====================================================
-GIT HUB PROFILE
+FIT HUB PROFILE
 ==================================================== -->
 
-<h1 align="center" style="color: #FF6B6B;">Hi 👋, I'm Benson M. Maina</h1>
+<style>
+@keyframes rainbow {
+  0% { color: #FF6B6B; }
+  16% { color: #4ECDC4; }
+  33% { color: #45B7D1; }
+  50% { color: #FFA07A; }
+  66% { color: #FFD93D; }
+  83% { color: #6BCF7F; }
+  100% { color: #FF6B6B; }
+}
+.animated-name {
+  animation: rainbow 3s infinite;
+}
+</style>
+
+<h1 align="center" class="animated-name">Hi 👋, I'm Benson M. Maina</h1>
 <h3 align="center" style="color: #4ECDC4;">🌐 Full-Stack Developer | MERN Stack | IT & Web Enthusiast</h3>
 
 <p align="center" style="color: #45B7D1;">
@@ -14,12 +29,12 @@ GIT HUB PROFILE
 ## 🛠️ <span style="color: #FFA07A;">Tech Stack</span>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,linux,vscode,tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,express,mysql,mongodb,git,github,linux,vscode,tailwind,figma" height="40" />
 </p>
 
 | <span style="color: #FFD93D;">Frontend</span>        | <span style="color: #6BCF7F;">Backend</span>           | <span style="color: #4D96FF;">Database</span>  | <span style="color: #9B59B6;">Tools & Others</span> |
 |-----------------|-----------------|----------|----------------|
-| React, Tailwind | Node.js, Express | MongoDB  | Git, GitHub, VS Code, Linux |
+| HTML5, CSS3, JS, React, Tailwind | Node.js, Express, Python | MySQL, MongoDB  | Git, GitHub, VS Code, Linux, Figma, Microsoft Excel |
 
 ---
 
@@ -28,6 +43,18 @@ GIT HUB PROFILE
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skinny-ke&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skinny-ke&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skinny-ke&theme=radical&hide_border=true" height="150" />
+</p>
+
+---
+
+## 📈 <span style="color: #FF1493;">GitHub Activity Graph</span>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skinny-ke&theme=radical&hide_border=true" height="300" />
 </p>
 
 ---
