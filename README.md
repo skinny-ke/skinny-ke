@@ -1,29 +1,29 @@
 <!-- ====================================================
-BENSON MURAGE MAINA PROFILE
+GIT HUB PROFILE
 ==================================================== -->
 
-<h1 align="center">Hi 👋, I'm Benson M. Maina</h1>
-<h3 align="center">🌐 Full-Stack Developer | MERN Stack | IT & Web Enthusiast</h3>
+<h1 align="center" style="color: #FF6B6B;">Hi 👋, I'm Benson M. Maina</h1>
+<h3 align="center" style="color: #4ECDC4;">🌐 Full-Stack Developer | MERN Stack | IT & Web Enthusiast</h3>
 
-<p align="center">
+<p align="center" style="color: #45B7D1;">
   I build fast, modern web apps with clean UI/UX and efficient backend systems. Passionate about full-stack development, IT support, and solving complex problems.
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ <span style="color: #FFA07A;">Tech Stack</span>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,linux,vscode,tailwind" height="40" />
 </p>
 
-| Frontend        | Backend           | Database  | Tools & Others |
+| <span style="color: #FFD93D;">Frontend</span>        | <span style="color: #6BCF7F;">Backend</span>           | <span style="color: #4D96FF;">Database</span>  | <span style="color: #9B59B6;">Tools & Others</span> |
 |-----------------|-----------------|----------|----------------|
 | React, Tailwind | Node.js, Express | MongoDB  | Git, GitHub, VS Code, Linux |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 <span style="color: #FF8C42;">GitHub Stats</span>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skinny-ke&show_icons=true&theme=radical&hide_border=true" height="150" />
@@ -32,7 +32,7 @@ BENSON MURAGE MAINA PROFILE
 
 ---
 
-## 💻 Projects Showcase
+## 💻 <span style="color: #FF6B9D;">Projects Showcase</span>
 
 <p align="center">
   <a href="https://github.com/skinny-ke/skinny-ke" target="_blank">
@@ -46,13 +46,13 @@ BENSON MURAGE MAINA PROFILE
   </a>
 </p>
 
-- **Skinny-KE** – Full-stack web app built with React, Node.js, Express & MongoDB  
-- **Portfolio Project** – Modern React app showcasing dynamic UI  
-- **REST API Project** – Node.js API with database integration  
+- **<span style="color: #FFD700;">Skinny-KE</span>** – Full-stack web app built with React, Node.js, Express & MongoDB
+- **<span style="color: #FF6347;">Portfolio Project</span>** – Modern React app showcasing dynamic UI
+- **<span style="color: #32CD32;">REST API Project</span>** – Node.js API with database integration
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 <span style="color: #20B2AA;">Connect with Me</span>
 
 <p align="center">
   <a href="#" target="_blank">
@@ -71,17 +71,17 @@ BENSON MURAGE MAINA PROFILE
 
 ---
 
-## ✨ About Me
+## ✨ <span style="color: #FF1493;">About Me</span>
 
-I love **solving complex IT problems**, **building clean UIs**, and **creating tools that make life easier**. 😎  
+I love **<span style="color: #00CED1;">solving complex IT problems</span>**, **<span style="color: #FF4500;">building clean UIs</span>**, and **<span style="color: #ADFF2F;">creating tools that make life easier</span>**. 😎
 
-- 🚀 Full-stack web development (React, Node, MongoDB)  
-- 🎨 Passionate about UI/UX design  
-- 💡 Always learning new technologies  
+- 🚀 <span style="color: #DC143C;">Full-stack web development (React, Node, MongoDB)</span>
+- 🎨 <span style="color: #FF69B4;">Passionate about UI/UX design</span>
+- 💡 <span style="color: #00FF7F;">Always learning new technologies</span>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 🐍 <span style="color: #8A2BE2;">GitHub Contribution Snake</span>
 
 <p align="center">
   ![snake gif](https://github.com/skinny-ke/skinny-ke/blob/output/github-contribution-grid-snake.svg)
@@ -89,7 +89,7 @@ I love **solving complex IT problems**, **building clean UIs**, and **creating t
 
 ---
 
-## 🖤 Visitor Badge
+## 🖤 <span style="color: #FF0000;">Visitor Badge</span>
 
 <p align="center">
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=skinny-ke.skinny-ke)
@@ -97,10 +97,9 @@ I love **solving complex IT problems**, **building clean UIs**, and **creating t
 
 ---
 
-## ⚡ Fun Facts
+## ⚡ <span style="color: #FFD700;">Fun Facts</span>
 
-- 🔧 Enjoy debugging and optimizing code  
-- 🎯 Always exploring new frameworks & libraries  
-- 🎮 Gamer at heart, but code first 😄  
-- 💬 Ask me about MERN Stack, Git, Linux, or IT Support  
-
+- 🔧 <span style="color: #FF6347;">Enjoy debugging and optimizing code</span>
+- 🎯 <span style="color: #32CD32;">Always exploring new frameworks & libraries</span>
+- 🎮 <span style="color: #FF1493;">Gamer at heart, but code first 😄</span>
+- 💬 <span style="color: #20B2AA;">Ask me about MERN Stack, Git, Linux, or IT Support</span>
