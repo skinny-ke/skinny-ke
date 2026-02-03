@@ -1,43 +1,33 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Benson+M.+Maina&fontSize=70&animation=fadeIn&fontAlignY=35&strokeWidth=3&strokeColor=%23FFFFFF" />
+# 👋 Hi, I'm Benson M. Maina
 
-<!-- Typing Animation Badge -->
+### 🌐 Full-Stack Developer | MERN Stack Specialist | IT & Web Enthusiast
+
+Building fast, modern web applications with clean UI/UX and efficient backend systems.
+
+---
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00CED1&background=1A1A2E&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;MERN+Stack+Specialist;React+%7C+Node.js+%7C+MongoDB;Open+Source+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
 ---
 
-<!-- Social Links with Hover Effects -->
-<a href="https://linkedin.com/in/benson-maina">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" />
-</a>
-<a href="https://benson-m-maina.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white&style=flat-square" />
-</a>
-<a href="mailto:maishb800@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" />
-</a>
-<a href="https://github.com/skinny-ke">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat-square" />
-</a>
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benson-maina)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benson-m-maina.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maishb800@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skinny-ke)
 
 ---
 
-<!-- About Me Card -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=skinny-ke&style=flat-square&color=FF6B6B" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/skinny-ke?style=flat-square&color=4ECDC4&label=Followers" />
-  <img src="https://img.shields.io/github/stars/skinny-ke?style=flat-square&color=FFE66D" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=skinny-ke&style=flat-square&color=FF6B6B)
+![Followers](https://img.shields.io/github/followers/skinny-ke?style=flat-square&color=4ECDC4)
+![Stars](https://img.shields.io/github/stars/skinny-ke?style=flat-square&color=FFE66D)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=150&section=content&color=gradient&text=false&fontSize=16" />
-</p>
+---
 
-## 👨‍💻 About Me
-
-<div align="center">
+## 💻 About Me
 
 ```javascript
 const benson = {
@@ -54,59 +44,71 @@ const benson = {
 };
 ```
 
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,figma&perline=4" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python&perline=5" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,vercel&perline=6" />
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skinny-ke&show_icons=true&theme=radical&hide_border=true&bg_color=1A1A2E&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skinny-ke&layout=compact&theme=radical&hide_border=true&bg_color=1A1A2E&title_color=FF6B6B&text_color=FFFFFF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skinny-ke&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skinny-ke&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skinny-ke&theme=radical&hide_border=true&background=1A1A2E&stroke=FFFFFF&fire=FF6B6B&ring=4ECDC4&currStreakNum=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skinny-ke&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skinny-ke&theme=radical&hide_border=true&background=1A1A2E&color=FF6B6B&line=4ECDC4&point=FFE66D" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skinny-ke&theme=radical&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 
-<div align="center">
+### 🚀 [Skinny-KE](https://github.com/skinny-ke/skinny-ke)
+> Full-stack MERN application with modern UI
+- **Tech:** React, Node.js, Express, MongoDB
+- ⭐ Star on GitHub
 
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| <a href="https://github.com/skinny-ke/skinny-ke"><img src="https://img.shields.io/badge/Skinny--KE-blue?style=flat-square" /></a> | Full-stack MERN application with modern UI | React, Node.js, Express, MongoDB | ⭐ |
-| <a href="https://benson-m-maina.vercel.app"><img src="https://img.shields.io/badge/Portfolio-red?style=flat-square" /></a> | Modern responsive personal portfolio | React, Tailwind CSS | ⭐ |
-| <a href="#"><img src="https://img.shields.io/badge/E--Commerce-green?style=flat-square" /></a> | Full-featured e-commerce platform | MERN Stack | ⭐ |
+### 💼 [Portfolio](https://benson-m-maina.vercel.app)
+> Modern responsive personal portfolio
+- **Tech:** React, Tailwind CSS
+- ⭐ Star on GitHub
 
-</div>
+### 🛒 E-Commerce Platform
+> Full-featured e-commerce platform
+- **Tech:** MERN Stack
+- ⭐ Star on GitHub
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://github.com/skinny-ke/skinny-ke/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -114,9 +116,7 @@ const benson = {
 
 ---
 
-## 🎯 Skills Radar
-
-<div align="center">
+## 🎯 Skills Overview
 
 ```
 🌐 Frontend    ████████████████████ 95%
@@ -127,47 +127,34 @@ const benson = {
 📱 Mobile       ████████░░░░░░░░░░░░ 50%
 ```
 
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=skinny-ke&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=1A1A2E" />
-
-</div>
-
 ---
 
 ## 📫 Get In Touch
 
 <div align="center">
-
-<a href="https://linkedin.com/in/benson-maina">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://benson-m-maina.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="mailto:maishb800@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/skinny-ke">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://linkedin.com/in/benson-maina">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://benson-m-maina.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:maishb800@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/skinny-ke">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
+---
+
 <div align="center">
-  <p><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" /></p>
   <p>⭐️ From <a href="https://github.com/skinny-ke">skinny-ke</a> with love</p>
   <p>Built with 💻, ☕, and lots of ❤️</p>
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
