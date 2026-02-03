@@ -1,102 +1,99 @@
-<!-- ====================================================
-FIT HUB PROFILE
-==================================================== -->
+<div align="center">
 
-<style>
-@keyframes rainbow {
-  0% { color: #FF6B6B; }
-  16% { color: #4ECDC4; }
-  33% { color: #45B7D1; }
-  50% { color: #FFA07A; }
-  66% { color: #FFD93D; }
-  83% { color: #6BCF7F; }
-  100% { color: #FF6B6B; }
-}
-.animated-name {
-  animation: rainbow 3s infinite;
-}
-</style>
+# 👋 Hi, I'm Benson M. Maina
 
-<h1 align="center" class="animated-name">Hi 👋, I'm Benson M. Maina</h1>
-<h3 align="center" style="color: #4ECDC4;">🌐 Full-Stack Developer | MERN Stack | IT & Web Enthusiast</h3>
+### 🌐 Full-Stack Developer | MERN Stack Specialist | IT & Web Enthusiast
 
-<p align="center" style="color: #45B7D1;">
-  I build fast, modern web apps with clean UI/UX and efficient backend systems. Passionate about full-stack development, IT support, and solving complex problems.
-</p>
+Building fast, modern web applications with clean UI/UX and efficient backend systems. Passionate about full-stack development, IT support, and solving complex problems.
+
+</div>
 
 ---
 
-## 🛠️ <span style="color: #FFA07A;">Tech Stack</span>
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,nodejs,express,mysql,mongodb,git,github,linux,vscode,tailwind,figma" height="40" />
-</p>
+</div>
 
-| <span style="color: #FFD93D;">Frontend</span>        | <span style="color: #6BCF7F;">Backend</span>           | <span style="color: #4D96FF;">Database</span>  | <span style="color: #9B59B6;">Tools & Others</span> |
-|-----------------|-----------------|----------|----------------|
-| HTML5, CSS3, JS, React, Tailwind | Node.js, Express, Python | MySQL, MongoDB  | Git, GitHub, VS Code, Linux, Figma, Microsoft Excel |
-
----
-
-## 📊 <span style="color: #FF8C42;">GitHub Stats</span>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skinny-ke&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skinny-ke&layout=compact&theme=radical&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skinny-ke&theme=radical&hide_border=true" height="150" />
-</p>
+| Category | Technologies |
+|----------|---------------|
+| **Frontend** | HTML5, CSS3, JavaScript, React, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Python |
+| **Database** | MySQL, MongoDB |
+| **Tools & DevOps** | Git, GitHub, VS Code, Linux, Figma, Excel |
 
 ---
 
-## 📈 <span style="color: #FF1493;">GitHub Activity Graph</span>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skinny-ke&theme=radical&hide_border=true" height="300" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=skinny-ke&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skinny-ke&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=skinny-ke&theme=radical&hide_border=true" />
+</div>
 
 ---
 
-## 💻 <span style="color: #FF6B9D;">Projects Showcase</span>
+## 📈 GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/skinny-ke/skinny-ke" target="_blank">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=skinny-ke&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 💻 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/skinny-ke/skinny-ke">
     <img src="https://img.shields.io/badge/Skinny--KE-MERN%20Stack-blue?style=for-the-badge&logo=github" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://benson-m-maina.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-React%20App-red?style=for-the-badge&logo=react" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/API-Node%20%26%20Express-green?style=for-the-badge&logo=node.js" />
+  <a href="https://github.com/skinny-ke">
+    <img src="https://img.shields.io/badge/APIs-Node%20%26%20Express-green?style=for-the-badge&logo=node.js" />
   </a>
-</p>
+</div>
 
-- **<span style="color: #FFD700;">Skinny-KE</span>** – Full-stack web app built with React, Node.js, Express & MongoDB
-- **<span style="color: #FF6347;">Portfolio Project</span>** – Modern React app showcasing dynamic UI
-- **<span style="color: #32CD32;">REST API Project</span>** – Node.js API with database integration
+### 📌 Highlights
+
+- **Skinny-KE** – Full-stack web app with React, Node.js, Express & MongoDB
+- **Portfolio** – Modern responsive React application with dynamic UI
+- **REST APIs** – Node.js/Express APIs with robust database integration
 
 ---
 
-## 🌐 <span style="color: #20B2AA;">Connect with Me</span>
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="#" target="_blank">
+<div align="center">
+  <a href="https://linkedin.com/in/benson-maina">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://benson-m-maina.vercel.app" target="_blank">
+  <a href="https://benson-m-maina.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:maishb800@gmail.com" target="_blank">
+  <a href="mailto:maishb800@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/skinny-ke" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/skinny-ke">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
+
+<div align="center">
+  <p><strong>Let's collaborate and build something amazing together! 🚀</strong></p>
+</div>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=skinny-ke" alt="Profile Views" />
+</div>
 
 ## ✨ <span style="color: #FF1493;">About Me</span>
 
